@@ -19,7 +19,7 @@ Keep on hacking because we are engineers that love to code!!
 A way to track deployed DAOs on the blockchain with additional context like logo pics and descriptions
 
 ## Who are we?
-Aleissia - Designer & Engineer, ex Ubisoft & Magic Leap
-Tammy - Product & Engineering, ex Dropbox & DigitalOcean
-Brandon - Engineering
-Rick - Engineering 
+* Aleissia - Designer & Engineer, ex Ubisoft & Magic Leap
+* Tammy - Product & Engineering, ex Dropbox & DigitalOcean
+* Brandon - Engineering
+* Rick - Engineering 
